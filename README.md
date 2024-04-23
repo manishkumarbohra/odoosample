@@ -1,0 +1,2 @@
+# odoosample
+Odoo sample configuration
